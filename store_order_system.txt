@@ -1,0 +1,6 @@
+Kitchen ID                        ID            Items         Cost          Time
+6                      FSS            Salad         $7.00         1
+2                     FEHB       Ham Burger         $15.00         2
+1                     FECB    Cheese burger         $12.00         2
+                                            -----------          ----------
+                                          Total:   $34.00   Total Time: 5 minutes
