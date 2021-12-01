@@ -37,7 +37,7 @@ list<stock> listOfStock;
 list<stock>::iterator it1;
 
 
-// STOCK //
+// STOCKING //
 void stock::searchStock(int input){
     it1 = listOfStock.begin();
     
